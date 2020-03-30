@@ -1,6 +1,7 @@
 from requests.auth import HTTPBasicAuth
 from requests.sessions import Session
 from requests.cookies import RequestsCookieJar
+import requests
 import json
 import time
 import datetime
